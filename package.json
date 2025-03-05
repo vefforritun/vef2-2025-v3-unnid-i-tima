@@ -1,6 +1,9 @@
 {
   "name": "vef2-2025-v3-unnid-i-time",
   "type": "module",
+  "engines": {
+    "node": "22"
+  },
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
